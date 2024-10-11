@@ -10,15 +10,15 @@ Ive used technologies such as Python, Amazon Web Services (AWS), Apache Kafka, G
 
 ## Technology Used
 
-Programming Language - Python
-Amazon Web Service (AWS)
-S3 (Simple Storage Service)
-Athena
-Glue Crawler
-Glue Catalog
-EC2
-Apache Kafka
-Dataset Used
+Programming Language - 
+- Python
+- Amazon Web Service (AWS)
+- S3 (Simple Storage Service)
+- Athena
+- Glue Crawler
+- Glue Catalog
+- EC2
+- Apache Kafka
 
 You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline)
 
